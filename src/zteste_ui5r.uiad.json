@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Testes",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "teste"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_62F547BFFE5EFBF18F0F372A11FAAEAA8DF3A30B_TM",
+    "semanticObject": "zteste",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_62F547BFFE5EFBF18F0F372A11FAAEAA8DF3A30B_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Testes"
+      }
+    }
+  ]
+}
